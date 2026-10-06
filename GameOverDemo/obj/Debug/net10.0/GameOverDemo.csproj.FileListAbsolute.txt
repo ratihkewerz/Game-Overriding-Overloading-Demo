@@ -1,0 +1,14 @@
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.AssemblyInfoInputs.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.AssemblyInfo.cs
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.csproj.CoreCompileInputs.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\bin\Debug\net10.0\GameOverDemo.exe
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\bin\Debug\net10.0\GameOverDemo.deps.json
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\bin\Debug\net10.0\GameOverDemo.runtimeconfig.json
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\bin\Debug\net10.0\GameOverDemo.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\bin\Debug\net10.0\GameOverDemo.pdb
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\refint\GameOverDemo.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.pdb
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\GameOverDemo.genruntimeconfig.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\GameOverDemo\obj\Debug\net10.0\ref\GameOverDemo.dll
