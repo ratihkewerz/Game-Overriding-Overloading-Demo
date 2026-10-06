@@ -1,0 +1,14 @@
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.AssemblyInfoInputs.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.AssemblyInfo.cs
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.csproj.CoreCompileInputs.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\bin\Debug\net10.0\Override.exe
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\bin\Debug\net10.0\Override.deps.json
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\bin\Debug\net10.0\Override.runtimeconfig.json
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\bin\Debug\net10.0\Override.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\bin\Debug\net10.0\Override.pdb
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\refint\Override.dll
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.pdb
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\Override.genruntimeconfig.cache
+C:\PGIM\Pak Ofik\GameOverrideDemo\Override\obj\Debug\net10.0\ref\Override.dll
